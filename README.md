@@ -1,4 +1,4 @@
-#one mot=nth rails
+#the$tart project
 
 this is the the$tart sample application for
 [*the house rails*](http://thehouserails.com)
